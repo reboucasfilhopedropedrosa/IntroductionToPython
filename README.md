@@ -16,6 +16,9 @@
 - Video - https://youtu.be/XnKbi1TMbAM
 - notebook - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/blob/e51cd82099b27ead30259dbd886f784ebcf268de/Notebook_Python_Codes/Aula04_Estrutura%20de%20dados%20em%20Python.ipynb
 
+## Arquivos para Aulas 5, 6 e t
+Link - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/tree/2b58f7954d392d479c114e9748903481fc848fc3/Files_Aulas_5_6_7
+
 ## Aula 5 - Manipulação de arquivos com Python
 - Video - https://youtu.be/_H4RI794UX4
 - notebook - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/blob/e51cd82099b27ead30259dbd886f784ebcf268de/Notebook_Python_Codes/Aula05_Manipulac%CC%A7a%CC%83o%20de%20arquivos.ipynb
