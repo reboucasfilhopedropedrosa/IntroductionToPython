@@ -1,4 +1,4 @@
-# Introduction To Python
+# Introdução ao Python para Data Science
 
 ## Aula 1 - Preparação do Ambiente Python
 - Video - https://youtu.be/PJ8-X5gBxvk
@@ -31,11 +31,11 @@ Link - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/tree/2b
 - Video - https://youtu.be/pUfy8OB6Z98
 - notebook - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/blob/e51cd82099b27ead30259dbd886f784ebcf268de/Notebook_Python_Codes/Aula07_Introduc%CC%A7a%CC%83o_ao_Pandas.ipynb
 
-## Aula 8 - intro a Análise de dados com Python
+## Aula 8 - Introdução à Análise de dados com Python
 - Video - https://youtu.be/YYzO_MHkJ3s
 - notebook - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/blob/e51cd82099b27ead30259dbd886f784ebcf268de/Notebook_Python_Codes/Aula08_Ana%CC%81lise_Explorato%CC%81ria_de_Dados.ipynb
 
-## Aula 9 - intro a Machine Learning com Python
+## Aula 9 - Introdução à Machine Learning com Python
 - Video - https://youtu.be/cb_9xsuiHJU
 - notebook - https://github.com/reboucasfilhopedropedrosa/IntroductionToPython/blob/e51cd82099b27ead30259dbd886f784ebcf268de/Notebook_Python_Codes/Aula09_Machine%20Learning.ipynb
 
